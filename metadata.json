@@ -1,0 +1,6 @@
+{
+  "name": "SpeechPrep AI - Text-to-Speech Script Assistant",
+  "description": "Prepare raw text for natural speech synthesis. Expands numbers and abbreviations, adds natural conversational pauses, fixes rhythm, and previews studio audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
